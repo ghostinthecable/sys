@@ -2,7 +2,7 @@
 
 #
 # ghostinthecable's sys scripts;
-# fail2ban-manager.sh - does what it says on the tin.
+# fail2ban-manager.sh - does what it says on the tin (hopefully).
 #
 
 # Fail2Ban Management Script with Menu Interface
