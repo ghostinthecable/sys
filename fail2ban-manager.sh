@@ -5,7 +5,7 @@
 # fail2ban-manager.sh - does what it says on the tin (hopefully).
 #
 
-# Fail2Ban Management Script with Menu Interface
+# Fail2Ban Management Script with Menu Interface;
 
 # Function to check if the script is run as root
 check_root() {
